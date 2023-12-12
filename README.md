@@ -1,5 +1,3 @@
-**⚠️ This is an example README for use in creating a Base Model. You will need to adjust this document for the model you are using.**
-
 <div align="center">
   <p>
     <a align="center" href="" target="_blank">
