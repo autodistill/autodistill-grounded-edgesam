@@ -1,3 +1,31 @@
+Metadata-Version: 2.1
+Name: autodistill-grounded-edgesam
+Version: 0.1.0
+Summary: Model for use with Autodistill
+Home-page: https://github.com/autodistill/autodistill-segment-anything
+Author: Roboflow
+Author-email: support@roboflow.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: autodistill
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: opencv-python>=4.6.0
+Requires-Dist: rf_groundingdino
+Requires-Dist: rf_segment_anything
+Requires-Dist: supervision
+Provides-Extra: dev
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: black==22.3.0; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Requires-Dist: twine; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: wheel; extra == "dev"
+
 **⚠️ This is an example README for use in creating a Base Model. You will need to adjust this document for the model you are using.**
 
 <div align="center">

@@ -1,0 +1,11 @@
+LICENSE
+Makefile
+README.md
+setup.py
+autodistill_grounded_edgesam/__init__.py
+autodistill_grounded_edgesam/grounded_edgesam_model.py
+autodistill_grounded_edgesam.egg-info/PKG-INFO
+autodistill_grounded_edgesam.egg-info/SOURCES.txt
+autodistill_grounded_edgesam.egg-info/dependency_links.txt
+autodistill_grounded_edgesam.egg-info/requires.txt
+autodistill_grounded_edgesam.egg-info/top_level.txt
